@@ -1,3 +1,3 @@
 # RADHATEJA
 My first repository on GitHub
-I love :flowers:.
+I love :flower:.
